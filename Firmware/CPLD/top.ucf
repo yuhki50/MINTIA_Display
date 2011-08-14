@@ -1,0 +1,27 @@
+# MINTIA Display v1.0
+
+// input bus //
+
+NET "ft232rl_data[0]"  LOC = "P40";
+NET "ft232rl_data[1]"  LOC = "P43";
+NET "ft232rl_data[2]"  LOC = "P42";
+NET "ft232rl_data[3]"  LOC = "P3";
+NET "ft232rl_resx"  LOC = "P41";
+NET "ft232rl_enable"  LOC = "P1";
+NET "ft232rl_a0"  LOC = "P2";
+NET "ft232rl_latch"  LOC = "P44";
+
+// output bus //
+NET "glcd_data[0]"  LOC = "P39";
+NET "glcd_data[1]"  LOC = "P38";
+NET "glcd_data[2]"  LOC = "P37";
+NET "glcd_data[3]"  LOC = "P32";
+NET "glcd_data[4]"  LOC = "P31";
+NET "glcd_data[5]"  LOC = "P30";
+NET "glcd_data[6]"  LOC = "P29";
+NET "glcd_data[7]"  LOC = "P28";
+NET "glcd_resx"  LOC = "P22";
+NET "glcd_csx"  LOC = "P21";
+NET "glcd_rdx"  LOC = "P19";
+NET "glcd_wrx"  LOC = "P20";
+NET "glcd_a0"  LOC = "P18";

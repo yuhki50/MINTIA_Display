@@ -1,0 +1,6 @@
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\TwitterLib\bin\Debug\TwitterLib.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\TwitterLib\bin\Debug\TwitterLib.pdb
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\TwitterLib\bin\Debug\OAuthLib.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\TwitterLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\TwitterLib\obj\Debug\TwitterLib.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\TwitterLib\obj\Debug\TwitterLib.pdb

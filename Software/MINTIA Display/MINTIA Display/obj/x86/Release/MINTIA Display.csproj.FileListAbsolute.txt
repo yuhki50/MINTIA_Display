@@ -1,0 +1,23 @@
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\MINTIA Display.exe
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\MINTIA Display.pdb
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\ImageEffect.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\NicoVideoLib.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\PixivLib.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\TwitterLib.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\USBDisplay.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\OAuthLib.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\FTD2XX_NET.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\ImageEffect.pdb
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\NicoVideoLib.pdb
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\PixivLib.pdb
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\TwitterLib.pdb
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\USBDisplay.pdb
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\bin\Release\FTD2XX_NET.xml
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\obj\x86\Release\MINTIA_Display.AuthForm.resources
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\obj\x86\Release\MINTIA_Display.MainForm.resources
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\obj\x86\Release\MINTIA_Display.Properties.Resources.resources
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\obj\x86\Release\MINTIA Display.exe
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\MINTIA Display\obj\x86\Release\MINTIA Display.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\PixivLib\bin\Debug\PixivLib.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\PixivLib\bin\Debug\PixivLib.pdb
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\PixivLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\PixivLib\obj\Debug\PixivLib.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\PixivLib\obj\Debug\PixivLib.pdb

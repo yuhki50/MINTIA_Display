@@ -1,0 +1,5 @@
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\ImageEffect\bin\Debug\ImageEffect.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\ImageEffect\bin\Debug\ImageEffect.pdb
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\ImageEffect\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\ImageEffect\obj\Debug\ImageEffect.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\ImageEffect\obj\Debug\ImageEffect.pdb

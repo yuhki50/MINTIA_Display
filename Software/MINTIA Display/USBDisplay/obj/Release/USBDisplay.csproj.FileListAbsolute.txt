@@ -1,0 +1,7 @@
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\USBDisplay\bin\Release\USBDisplay.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\USBDisplay\bin\Release\USBDisplay.pdb
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\USBDisplay\bin\Release\FTD2XX_NET.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\USBDisplay\bin\Release\FTD2XX_NET.xml
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\USBDisplay\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\USBDisplay\obj\Release\USBDisplay.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\USBDisplay\obj\Release\USBDisplay.pdb

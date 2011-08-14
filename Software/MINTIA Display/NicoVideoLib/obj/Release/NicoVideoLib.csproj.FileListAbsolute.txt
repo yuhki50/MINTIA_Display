@@ -1,0 +1,5 @@
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\NicoVideoLib\bin\Release\NicoVideoLib.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\NicoVideoLib\bin\Release\NicoVideoLib.pdb
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\NicoVideoLib\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\NicoVideoLib\obj\Release\NicoVideoLib.dll
+C:\Documents and Settings\yuhki50\My Documents\Visual Studio 2010\Projects\MINTIA Display\NicoVideoLib\obj\Release\NicoVideoLib.pdb

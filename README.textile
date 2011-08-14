@@ -1,0 +1,8 @@
+h1. MINTIA Display
+
+This is the small USB Display which incorporating an TFT Graphic LCD MINTIA case. It can display picture, twitter, nico nico video, pixiv, animation, etc by original control software.
+
+
+h2. Writing Firmware
+
+This use control ICs which is CPLD (Xilinx XC9536). You need to write the firmware. There are pre-built firmwares at <notextile>/Firmware/CPLD/release/*</notextile>. Please write by development environment.

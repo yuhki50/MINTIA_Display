@@ -1,0 +1,10 @@
+h1. MINTIA 電光掲示板
+
+MINTIAケースにTFTグラフィック液晶を組み込んだ小型のUSBディスプレイです。
+独自のソフトウェアにより、画像やtwitter、ニコニコ動画、pixiv、アニメーションなどが表示できます。
+
+
+h2. ファームウェアの書き込み
+
+<notextile>
+制御ICにはCPLD（Xilinx XC9536）を使っており、ファームウェアを書き込む必要があります。ビルド済みのファイルが <notextile>/Firmware/CPLD/release/*</notextile> にありますので、各開発環境から書き込んでください。
